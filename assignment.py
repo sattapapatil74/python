@@ -1,6 +1,6 @@
 
 def fibonacci(n):
-    a, b = 0, 1 
+    a, b = 1, 2 
     print("Fibonacci Series:")
     for i in range(n):
         print(a, end=" ")  
